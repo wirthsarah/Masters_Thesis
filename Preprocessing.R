@@ -1,4 +1,6 @@
 #Preprocessing ----
+#This file contains all steps in the Preprocessing, as referenced in the methods-part of my thesis. Next File: All_Modelling.R
+
 library("readr")
 library("dplyr")
 library("tidyr")
